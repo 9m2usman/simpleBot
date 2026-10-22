@@ -1,0 +1,695 @@
+[
+  {
+    "id": "1",
+    "category": "Orders",
+    "question": "How do I place an order?",
+    "answer": "Pick a product, choose size and colour, click Add to Cart, then Checkout. Enter your address and phone number, choose a payment method and confirm. You will get an order number by SMS and email.",
+    "keywords": "buy purchase checkout order karna kaise order dena shopping how to buy place order"
+  },
+  {
+    "id": "2",
+    "category": "Orders",
+    "question": "Can I order without creating an account?",
+    "answer": "Yes, guest checkout is available. An account only makes tracking, returns and re-ordering easier.",
+    "keywords": "guest checkout without signup no account without registering"
+  },
+  {
+    "id": "3",
+    "category": "Orders",
+    "question": "I did not get an order confirmation. What should I do?",
+    "answer": "Check your spam folder and SMS first. If nothing arrives within 30 minutes, open My Orders in your account. If the order is listed, it was placed. If it is not listed, contact support.",
+    "keywords": "confirmation email sms not received order placed no message did not get email order number missing how do i know if my order is confirmed order confirmed is my order confirmed"
+  },
+  {
+    "id": "4",
+    "category": "Orders",
+    "question": "How can I track my order?",
+    "answer": "Open My Orders and click Track, or use the tracking number from your SMS on the courier website. Tracking starts updating within 24 hours after dispatch.",
+    "keywords": "track tracking status where is my order parcel kahan hai tracking number order status track order locate i ordered days ago what is the status of my order status of my order"
+  },
+  {
+    "id": "5",
+    "category": "Orders",
+    "question": "What do the order statuses mean?",
+    "answer": "Placed means we received your order. Confirmed means stock and payment are checked. Packed means it is ready. Dispatched means it is with the courier. Out for delivery means it arrives today. Delivered means it reached you.",
+    "keywords": "status meaning processing shipped dispatched packed confirmed out for delivery what does mean"
+  },
+  {
+    "id": "6",
+    "category": "Orders",
+    "question": "How long does it take to process my order?",
+    "answer": "Orders are confirmed and packed within 1 working day. Orders placed after 5 pm or on Sunday are processed on the next working day.",
+    "keywords": "processing time dispatch how long packed when will you ship handling time"
+  },
+  {
+    "id": "7",
+    "category": "Orders",
+    "question": "Can I cancel my order?",
+    "answer": "Yes, before it is dispatched: go to My Orders and click Cancel. After dispatch an order cannot be cancelled, but you can refuse delivery or return it after receiving it.",
+    "keywords": "cancel order cancellation stop order order cancel karna cancel my purchase"
+  },
+  {
+    "id": "8",
+    "category": "Orders",
+    "question": "Can I change my delivery address after ordering?",
+    "answer": "Yes, but only before dispatch. Contact support with your order number and the new address. After dispatch the address cannot be changed.",
+    "keywords": "change address wrong address update shipping address edit address address galat"
+  },
+  {
+    "id": "9",
+    "category": "Orders",
+    "question": "Can I add or change items in my order?",
+    "answer": "Items cannot be edited after the order is placed. Cancel the order (before dispatch) and place a new one, or place a separate order for the extra items.",
+    "keywords": "add item modify order change product change size change colour edit order add more"
+  },
+  {
+    "id": "10",
+    "category": "Orders",
+    "question": "I placed the same order twice by mistake.",
+    "answer": "Contact support quickly with both order numbers. We cancel the duplicate before dispatch and refund it if you already paid.",
+    "keywords": "duplicate order ordered twice double order two orders same item twice"
+  },
+  {
+    "id": "11",
+    "category": "Orders",
+    "question": "Is there a minimum order amount?",
+    "answer": "No, there is no minimum order amount. Orders above PKR 3,000 get free standard shipping.",
+    "keywords": "minimum order value least amount minimum purchase"
+  },
+  {
+    "id": "12",
+    "category": "Orders",
+    "question": "Can I place a bulk or wholesale order?",
+    "answer": "Yes. For 10 or more units, email wholesale@shopeasy.example with the product and quantity and we will send a special price.",
+    "keywords": "bulk wholesale many units corporate order large quantity reseller dealer pieces piece quantity dozen buy many 50 100"
+  },
+  {
+    "id": "13",
+    "category": "Orders",
+    "question": "Do you offer gift wrapping or a gift message?",
+    "answer": "Yes. Tick Gift wrap at checkout for PKR 150 and type your message. Prices are not shown on the gift invoice.",
+    "keywords": "gift wrap present message birthday gift packing surprise"
+  },
+  {
+    "id": "14",
+    "category": "Orders",
+    "question": "How do I get an invoice or receipt?",
+    "answer": "Your invoice is emailed after delivery. You can also open My Orders and click Download invoice. For a tax invoice with an NTN, email support with your order number.",
+    "keywords": "invoice receipt bill tax ntn download bill copy"
+  },
+  {
+    "id": "15",
+    "category": "Orders",
+    "question": "Why was my order cancelled by the store?",
+    "answer": "Common reasons are item out of stock, payment not verified, an incomplete address, or no answer to our COD confirmation call. If you had paid, the money is refunded within 5 to 7 working days.",
+    "keywords": "order cancelled by seller automatically cancelled why cancelled you cancelled my order"
+  },
+  {
+    "id": "16",
+    "category": "Orders",
+    "question": "Do you call to confirm Cash on Delivery orders?",
+    "answer": "Sometimes we call or send an SMS to confirm a COD order. Please reply or answer, otherwise the order may be cancelled.",
+    "keywords": "confirmation call verify cod order phone call confirm order sms reply"
+  },
+  {
+    "id": "17",
+    "category": "Shipping",
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3 to 5 working days in major cities (Karachi, Lahore, Islamabad, Rawalpindi) and 5 to 7 working days elsewhere. Express delivery takes 1 to 2 working days in major cities.",
+    "keywords": "delivery time days kab ayega when will it arrive kitne din shipping time how many days arrive order kab aayega how long will it take to get my parcel"
+  },
+  {
+    "id": "18",
+    "category": "Shipping",
+    "question": "How much is the shipping fee or delivery charge?",
+    "answer": "Standard shipping is PKR 200 and it is free on orders above PKR 3,000. Express shipping is PKR 400.",
+    "keywords": "shipping charges delivery charges cost fee how much delivery price courier charges"
+  },
+  {
+    "id": "19",
+    "category": "Shipping",
+    "question": "Do you offer free shipping?",
+    "answer": "Yes, standard shipping is free on orders above PKR 3,000, and during free-shipping promotions shown on the home page banner.",
+    "keywords": "free delivery free shipping no delivery charges zero shipping"
+  },
+  {
+    "id": "20",
+    "category": "Shipping",
+    "question": "Do you offer express or same-day delivery?",
+    "answer": "Express delivery takes 1 to 2 working days in major cities and costs PKR 400. Choose it at checkout. We do not offer same-day delivery.",
+    "keywords": "fast urgent quick same day next day express delivery asap emergency"
+  },
+  {
+    "id": "21",
+    "category": "Shipping",
+    "question": "Which areas do you deliver to?",
+    "answer": "We deliver all over Pakistan through courier partners, including most towns. Enter your city or postal code at checkout to confirm. Remote areas may take longer.",
+    "keywords": "cities coverage deliver to location area available village town do you deliver to my city"
+  },
+  {
+    "id": "22",
+    "category": "Shipping",
+    "question": "Do you deliver internationally?",
+    "answer": "No, we only deliver inside Pakistan right now.",
+    "keywords": "international abroad overseas outside country dubai uk usa saudi ship worldwide"
+  },
+  {
+    "id": "23",
+    "category": "Shipping",
+    "question": "Which courier companies do you use?",
+    "answer": "We ship with trusted courier partners such as TCS and Leopards, depending on your area. The courier name is shown in your tracking SMS.",
+    "keywords": "courier company tcs leopards delivery partner which courier who delivers"
+  },
+  {
+    "id": "24",
+    "category": "Shipping",
+    "question": "My tracking number is not working.",
+    "answer": "Tracking becomes active up to 24 hours after dispatch. Please wait a day. If it still does not work after 48 hours, contact support with your order number.",
+    "keywords": "tracking not working invalid tracking no update tracking number error cannot track"
+  },
+  {
+    "id": "25",
+    "category": "Shipping",
+    "question": "My order is delayed. What should I do?",
+    "answer": "Check tracking first. If your order is more than 2 working days past the estimated date, contact support with your order number and we will chase the courier. Delays can happen during big sales, bad weather and public holidays.",
+    "keywords": "late delay not arrived still waiting stuck order late hai delayed parcel taking too long not delivered yet my parcel has not arrived where is it where is my parcel not arrived yet"
+  },
+  {
+    "id": "26",
+    "category": "Shipping",
+    "question": "What if I am not home when the courier comes?",
+    "answer": "The courier tries up to 3 times and will call you first. You can ask them to come another day or hand the parcel to a family member. After 3 failed attempts the parcel returns to us.",
+    "keywords": "missed delivery not home unavailable reattempt rescheduling nobody at home courier came"
+  },
+  {
+    "id": "27",
+    "category": "Shipping",
+    "question": "Can I choose a delivery date or time?",
+    "answer": "Not exactly. You can ask the courier to reschedule when they call you, but we cannot guarantee a specific time.",
+    "keywords": "delivery slot schedule time choose date specific time deliver in the evening"
+  },
+  {
+    "id": "28",
+    "category": "Shipping",
+    "question": "Do you deliver on Sundays and public holidays?",
+    "answer": "Couriers deliver from 10 am to 8 pm, Monday to Saturday. Sunday and holiday delivery is limited and depends on the courier and your area.",
+    "keywords": "sunday holiday weekend delivery hours eid delivery timing courier timings"
+  },
+  {
+    "id": "29",
+    "category": "Shipping",
+    "question": "My parcel shows delivered but I did not receive it.",
+    "answer": "Please check with your family, neighbours or building security. If you still cannot find it, contact support within 48 hours with your order number and we will raise a complaint with the courier.",
+    "keywords": "delivered not received missing parcel lost fake delivery marked delivered never got"
+  },
+  {
+    "id": "30",
+    "category": "Shipping",
+    "question": "Can I open the parcel before paying (COD)?",
+    "answer": "Yes. For COD you may check that the parcel is sealed and the items look right before you pay. If it is wrong or damaged, refuse it and call us.",
+    "keywords": "open parcel check inspect before payment opening delivery check item before paying"
+  },
+  {
+    "id": "31",
+    "category": "Shipping",
+    "question": "My package arrived damaged.",
+    "answer": "For COD, do not accept a visibly damaged parcel. If you notice damage later, send photos or a video of the package and the item to support within 48 hours and we will replace or refund it.",
+    "keywords": "damaged broken torn crushed parcel arrived packaging damaged item broken delivered cracked scratched smashed shattered phone mobile laptop watch headphones charger bag"
+  },
+  {
+    "id": "32",
+    "category": "Shipping",
+    "question": "I received the wrong item.",
+    "answer": "We are sorry about that. Send a photo of the item and the parcel label to support within 7 days. We will send the right item or refund you, and we pay the return shipping.",
+    "keywords": "wrong item incorrect different product not what i ordered received something else wrong size sent phone mobile laptop watch headphones charger bag"
+  },
+  {
+    "id": "33",
+    "category": "Shipping",
+    "question": "An item is missing from my order.",
+    "answer": "First check whether your order came in separate parcels (tracking shows each one). If not, contact support within 48 hours with your order number and unboxing photos.",
+    "keywords": "missing item incomplete order partial delivery less item one item not in parcel"
+  },
+  {
+    "id": "34",
+    "category": "Shipping",
+    "question": "Why was my order split into several parcels?",
+    "answer": "Items can ship from different warehouses, so each parcel has its own tracking number. You only pay shipping once.",
+    "keywords": "split shipments multiple parcels two deliveries separate packages arrived separately"
+  },
+  {
+    "id": "35",
+    "category": "Shipping",
+    "question": "Can someone else receive my parcel?",
+    "answer": "Yes, a family member or neighbour can receive it. For COD orders they must pay the amount on delivery.",
+    "keywords": "other person receive parcel on behalf someone else accept delivery family member receive"
+  },
+  {
+    "id": "36",
+    "category": "Payments",
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept Cash on Delivery, Visa and Mastercard debit or credit cards, JazzCash, Easypaisa and bank transfer.",
+    "keywords": "payment methods pay how options card cash on delivery ways to pay accepted payments visa mastercard debit credit card accept visa do you take card"
+  },
+  {
+    "id": "37",
+    "category": "Payments",
+    "question": "Do you offer cash on delivery (COD)?",
+    "answer": "Yes. COD is available for orders up to PKR 50,000 with no extra fee. Please keep the exact amount ready.",
+    "keywords": "cod cash on delivery cash pay at door paisay delivery par pay when delivered pay cash when it arrives cash on arrival pay when parcel arrives cod charges any charge for cod extra fee for cod cod fee"
+  },
+  {
+    "id": "38",
+    "category": "Payments",
+    "question": "Is it safe to pay by card on your website?",
+    "answer": "Yes. Payments go through an encrypted, secure gateway and we never store your card number or CVV.",
+    "keywords": "safe secure card payment fraud trust is it safe online payment security ssl"
+  },
+  {
+    "id": "39",
+    "category": "Payments",
+    "question": "My payment failed but money was deducted.",
+    "answer": "The amount is usually reversed automatically within 5 to 7 working days. If your order is not shown, send the transaction screenshot and your phone number to support and we will confirm the order or refund you.",
+    "keywords": "payment failed deducted charged twice money cut transaction failed paisay kat gaye amount deducted order not placed"
+  },
+  {
+    "id": "40",
+    "category": "Payments",
+    "question": "How do I pay with JazzCash or Easypaisa?",
+    "answer": "Choose JazzCash or Easypaisa at checkout, enter your wallet mobile number and approve the payment with the PIN prompt on your phone.",
+    "keywords": "jazzcash easypaisa mobile wallet wallet payment pay with wallet mobile account"
+  },
+  {
+    "id": "41",
+    "category": "Payments",
+    "question": "Can I pay in instalments?",
+    "answer": "We do not offer our own instalment plan. Some banks offer instalments on credit cards, so please check with your bank.",
+    "keywords": "installment instalment easy payment emi monthly kist pay later split payment"
+  },
+  {
+    "id": "42",
+    "category": "Payments",
+    "question": "Do prices include tax?",
+    "answer": "Yes, all prices are in PKR and include applicable taxes.",
+    "keywords": "tax gst vat price include extra charges hidden charges inclusive"
+  },
+  {
+    "id": "43",
+    "category": "Payments",
+    "question": "Can I change the payment method after placing my order?",
+    "answer": "Not directly. If the order has not been dispatched, cancel it and place a new order with the payment method you prefer.",
+    "keywords": "change payment method switch cod card pay differently payment option change"
+  },
+  {
+    "id": "44",
+    "category": "Payments",
+    "question": "When will I be charged for my order?",
+    "answer": "Card and wallet payments are charged at checkout. For COD you pay the courier when the parcel is delivered.",
+    "keywords": "when charged billing deducted when do i pay charge time"
+  },
+  {
+    "id": "45",
+    "category": "Returns & Refunds",
+    "question": "What is your return policy?",
+    "answer": "You can return an item within 7 days of delivery if it is unused and in its original packaging with tags and invoice.",
+    "keywords": "return policy rules days wapsi return karna can i return how many days return window dont like the product do not like it changed my mind dont want it not satisfied unhappy with product what happens if i dont like"
+  },
+  {
+    "id": "46",
+    "category": "Returns & Refunds",
+    "question": "How do I return a product?",
+    "answer": "Go to My Orders, click Return, choose the item and reason. We arrange a pickup within 2 to 3 working days. Pack the item securely with the invoice. Guest customers should contact support with their order number.",
+    "keywords": "return process steps send back how to return start a return return request how do i return something"
+  },
+  {
+    "id": "47",
+    "category": "Returns & Refunds",
+    "question": "Who pays for return shipping?",
+    "answer": "We pay if the item is damaged, defective or wrong. For a change of mind, PKR 200 is deducted from your refund.",
+    "keywords": "return shipping cost fee free return who pays pickup charges"
+  },
+  {
+    "id": "48",
+    "category": "Returns & Refunds",
+    "question": "How long does a refund take?",
+    "answer": "After we receive and inspect the item (up to 2 working days), the refund is processed within 5 to 7 working days for wallets and bank accounts, and 7 to 10 working days for cards.",
+    "keywords": "refund time when money back how long paisay wapis refund kitne din refund duration when will my refund come when will i get my refund"
+  },
+  {
+    "id": "49",
+    "category": "Returns & Refunds",
+    "question": "How will I get my refund?",
+    "answer": "Refunds go back to the original payment method: card to card, wallet to wallet. For COD orders we refund to the JazzCash, Easypaisa or bank account you give us. We do not give cash refunds.",
+    "keywords": "refund method where money goes cod refund bank account refund to wallet cash refund money back give me my money back i want my money back"
+  },
+  {
+    "id": "50",
+    "category": "Returns & Refunds",
+    "question": "Which items cannot be returned?",
+    "answer": "Underwear, swimwear, opened cosmetics and skincare, earphones (hygiene), perishable items, gift cards, customised items and anything marked Final Sale cannot be returned.",
+    "keywords": "non returnable exceptions no return hygiene cannot return not returnable excluded items"
+  },
+  {
+    "id": "51",
+    "category": "Returns & Refunds",
+    "question": "The product I received is defective.",
+    "answer": "Report it within 7 days with photos or a video. We replace or refund it and cover the return shipping. For electronics after 7 days, see the warranty questions.",
+    "keywords": "defective faulty not working broken product quality defect stopped working bad quality cracked scratched shattered phone mobile laptop watch headphones charger bag"
+  },
+  {
+    "id": "52",
+    "category": "Returns & Refunds",
+    "question": "Can I return only part of my order?",
+    "answer": "Yes. You can return individual items and keep the rest of your order.",
+    "keywords": "partial return one item return some items return single product"
+  },
+  {
+    "id": "53",
+    "category": "Returns & Refunds",
+    "question": "How do I check my return or refund status?",
+    "answer": "Open My Orders and then Returns. It shows Pickup scheduled, Received and Refund processed. You can also contact support with your order number.",
+    "keywords": "return status refund status track refund track return where is my refund"
+  },
+  {
+    "id": "54",
+    "category": "Returns & Refunds",
+    "question": "My refund has not arrived yet.",
+    "answer": "Please allow 5 to 7 working days (wallet or bank) or 7 to 10 working days (card) after we confirm your return. If it is later than that, send your order number to support and we will share the refund reference for your bank.",
+    "keywords": "refund not received missing refund delay money not back refund pending still no refund paisay nahi aaye"
+  },
+  {
+    "id": "55",
+    "category": "Returns & Refunds",
+    "question": "Can I get store credit instead of a refund?",
+    "answer": "Yes. Choose store credit when you return an item. It is added to your account within 1 working day after inspection and does not expire.",
+    "keywords": "store credit wallet balance voucher instead of refund account credit"
+  },
+  {
+    "id": "56",
+    "category": "Returns & Refunds",
+    "question": "Do I need the original packaging to return an item?",
+    "answer": "Yes, please keep the original box, tags and invoice. Items without packaging may be rejected or partly refunded.",
+    "keywords": "packaging box tags needed original box thrown away no box invoice missing"
+  },
+  {
+    "id": "57",
+    "category": "Returns & Refunds",
+    "question": "Can I return sale or discounted items?",
+    "answer": "Yes, sale items follow the same 7-day return policy unless they are marked Final Sale.",
+    "keywords": "sale items return discounted return clearance return offer item return"
+  },
+  {
+    "id": "58",
+    "category": "Returns & Refunds",
+    "question": "Can I return an item bought with a voucher?",
+    "answer": "Yes. You are refunded the amount you actually paid, after the voucher discount.",
+    "keywords": "voucher return coupon refund amount discount refund promo code return"
+  },
+  {
+    "id": "59",
+    "category": "Exchanges",
+    "question": "Can I exchange an item for a different size or colour?",
+    "answer": "Yes, within 7 days and subject to stock. Go to My Orders and click Exchange. We pick up the old item and deliver the new one. If your size is not in stock, you get a refund.",
+    "keywords": "exchange size change swap colour different size badalna size does not fit too small too big"
+  },
+  {
+    "id": "60",
+    "category": "Exchanges",
+    "question": "Can I exchange for a different product?",
+    "answer": "Exchanges are only for the same product in another size or colour. For a different product, please return the item and place a new order.",
+    "keywords": "exchange other product different item swap for another product exchange with something else"
+  },
+  {
+    "id": "61",
+    "category": "Products",
+    "question": "A product is out of stock. When will it be back?",
+    "answer": "We cannot promise restock dates. Click Notify me on the product page and we will message you as soon as it is back.",
+    "keywords": "out of stock sold out restock available again back in stock when available notify"
+  },
+  {
+    "id": "62",
+    "category": "Products",
+    "question": "Are your products original?",
+    "answer": "Yes, all products are 100% original and come from the brands or their authorised distributors. If a product turns out to be fake, you get a full refund.",
+    "keywords": "original authentic genuine fake copy real asli first copy duplicate trustworthy trust reliable legit legitimate is your store trustworthy is this site real"
+  },
+  {
+    "id": "63",
+    "category": "Products",
+    "question": "How do I find my size?",
+    "answer": "Each product page has a Size Guide. Measure yourself and compare. If you are between two sizes, choose the larger one.",
+    "keywords": "size guide measurement fit chart which size what size sizing how to measure"
+  },
+  {
+    "id": "64",
+    "category": "Products",
+    "question": "The colour looks different from the picture.",
+    "answer": "Screens show colours differently, so a small difference is possible. If the colour is very different, you can return it within 7 days.",
+    "keywords": "colour different photo not same picture shade color mismatch looks different"
+  },
+  {
+    "id": "65",
+    "category": "Products",
+    "question": "Can I pre-order upcoming products?",
+    "answer": "Yes, for items labelled Pre-order. You pay at checkout and the item ships on the date shown on the page.",
+    "keywords": "preorder pre order upcoming launch reserve coming soon book in advance"
+  },
+  {
+    "id": "66",
+    "category": "Products",
+    "question": "Where can I find product specifications?",
+    "answer": "Open the product page and look at the Specifications tab. For anything else, use Ask a question on the page or contact support.",
+    "keywords": "specs details features description material specification information"
+  },
+  {
+    "id": "67",
+    "category": "Products",
+    "question": "Do you sell a particular product or brand?",
+    "answer": "Please type the product name in the search bar at the top of our website to see if we have it. If you cannot find it, contact support and we will try to help.",
+    "keywords": "do you sell do you have available stock of brand model mobile phones phone laptop shoes watch any product looking for product catalog"
+  },
+  {
+    "id": "68",
+    "category": "Products",
+    "question": "Do you have a physical store?",
+    "answer": "We are an online store only and do not have a shop you can visit.",
+    "keywords": "shop store visit showroom outlet address location branch walk in"
+  },
+  {
+    "id": "69",
+    "category": "Products",
+    "question": "Do products come with a warranty?",
+    "answer": "Electronics carry the brand warranty (usually 6 to 12 months, shown on the product page). Fashion and accessories have no warranty but follow the 7-day return policy.",
+    "keywords": "warranty guarantee brand warranty electronics how long warranty"
+  },
+  {
+    "id": "70",
+    "category": "Products",
+    "question": "How do I claim a warranty?",
+    "answer": "Email support with your order number, invoice and a photo or video of the problem. We guide you to the brand service centre or arrange a pickup. Keep your invoice safe.",
+    "keywords": "warranty claim repair service center replacement fix broken device claim warranty"
+  },
+  {
+    "id": "71",
+    "category": "Products",
+    "question": "Can you help me choose a product?",
+    "answer": "I cannot compare products yet. Please use the filters and customer reviews on the product page, or ask our support team for advice.",
+    "keywords": "recommend suggestion which one best help choose compare advice which is better good laptop good phone best mobile shoes watch recommend me"
+  },
+  {
+    "id": "72",
+    "category": "Account",
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up, enter your name, email or phone and a password, then confirm the OTP we send you.",
+    "keywords": "register sign up new account join create profile open account"
+  },
+  {
+    "id": "73",
+    "category": "Account",
+    "question": "I forgot my password.",
+    "answer": "Click Forgot password on the login page, enter your email or phone and follow the reset link or OTP.",
+    "keywords": "reset password forgot login password bhool gaya lost password change password"
+  },
+  {
+    "id": "74",
+    "category": "Account",
+    "question": "I cannot log in to my account.",
+    "answer": "Check your email or phone and password (and caps lock). Try resetting your password. After 5 wrong attempts the account is locked for 30 minutes.",
+    "keywords": "cannot login unable sign in locked error login problem login failed account locked"
+  },
+  {
+    "id": "75",
+    "category": "Account",
+    "question": "How do I change my email, phone number or address?",
+    "answer": "Open Account and go to Profile or Addresses. Orders already placed keep their old address, so contact support if you need to change one.",
+    "keywords": "update profile change phone number email details edit profile new address"
+  },
+  {
+    "id": "76",
+    "category": "Account",
+    "question": "How do I delete my account?",
+    "answer": "Email support from your registered email and ask for account deletion. It is done within 7 days, once pending orders are completed.",
+    "keywords": "delete account close remove deactivate cancel account remove my data"
+  },
+  {
+    "id": "77",
+    "category": "Account",
+    "question": "How do I unsubscribe from promotional emails or SMS?",
+    "answer": "Click Unsubscribe at the bottom of any email, or reply STOP to our SMS. You will still receive order updates.",
+    "keywords": "unsubscribe stop emails spam sms messages marketing too many messages stop notifications"
+  },
+  {
+    "id": "78",
+    "category": "Offers",
+    "question": "How do I use a voucher or promo code?",
+    "answer": "At checkout, type the code in the Promo code box and click Apply. Only one code can be used per order.",
+    "keywords": "voucher coupon promo discount code apply how to use code redeem"
+  },
+  {
+    "id": "79",
+    "category": "Offers",
+    "question": "My promo code is not working.",
+    "answer": "Check that it has not expired, your cart meets the minimum amount, the products are eligible, only one code is used, and it is typed without spaces. If it still fails, send a screenshot to support.",
+    "keywords": "coupon invalid expired not applied code error voucher not working promo failed"
+  },
+  {
+    "id": "80",
+    "category": "Offers",
+    "question": "When is the next sale?",
+    "answer": "Watch the banner on our home page. Big sales run around 11.11, Black Friday, Ramadan and Eid. Join the newsletter for early alerts.",
+    "keywords": "sale offers discount festival eid black friday upcoming next sale when sale"
+  },
+  {
+    "id": "81",
+    "category": "Offers",
+    "question": "Do you offer a first-order discount?",
+    "answer": "Yes. Sign up with your email or phone and you get a welcome code for your first order. The current value is shown on the sign-up page.",
+    "keywords": "welcome offer new customer first order discount new user offer first purchase"
+  },
+  {
+    "id": "82",
+    "category": "Offers",
+    "question": "The price dropped after I bought. Can I get the difference?",
+    "answer": "Sorry, we cannot adjust the price after an order is placed. If your order has not been dispatched, you can cancel it and order again at the new price.",
+    "keywords": "price drop adjustment cheaper price match price reduced after buying refund difference"
+  },
+  {
+    "id": "83",
+    "category": "Offers",
+    "question": "Do you have a loyalty or rewards programme?",
+    "answer": "Yes. You earn points on every PKR you spend and can use them at checkout. See Account and then Rewards.",
+    "keywords": "loyalty points rewards cashback membership earn points reward points"
+  },
+  {
+    "id": "84",
+    "category": "Offers",
+    "question": "Do you give student discounts?",
+    "answer": "We do not have a student discount right now. For large quantities, see our wholesale option.",
+    "keywords": "student discount offer special discount concession"
+  },
+  {
+    "id": "85",
+    "category": "Support",
+    "question": "How can I contact customer support?",
+    "answer": "WhatsApp +92 300 0000000 or email support@shopeasy.example, from 9 am to 9 pm, 7 days a week. Please include your order number.",
+    "keywords": "contact phone number email whatsapp helpline support number call customer care customer service"
+  },
+  {
+    "id": "86",
+    "category": "Support",
+    "question": "What are your customer support hours?",
+    "answer": "Our team is available from 9 am to 9 pm, every day of the week.",
+    "keywords": "timing hours open time available when are you open support timing"
+  },
+  {
+    "id": "87",
+    "category": "Support",
+    "question": "I want to talk to a human agent.",
+    "answer": "I am a bot, but our team is happy to help. WhatsApp +92 300 0000000 or email support@shopeasy.example (9 am to 9 pm, 7 days), and mention your order number.",
+    "keywords": "human agent real person representative talk to someone insaan speak to agent live agent operator"
+  },
+  {
+    "id": "88",
+    "category": "Support",
+    "question": "How do I make a complaint?",
+    "answer": "I am sorry you had a bad experience. Email support@shopeasy.example with your order number and details. We reply within 24 hours, and you can ask for a supervisor if it is not resolved.",
+    "keywords": "complaint complain unhappy angry bad service issue escalate not satisfied worst service"
+  },
+  {
+    "id": "89",
+    "category": "Support",
+    "question": "How can I give feedback or leave a review?",
+    "answer": "After delivery we email you a review link. You can also open My Orders and click Write a review.",
+    "keywords": "review feedback rating suggestion rate product opinion"
+  },
+  {
+    "id": "90",
+    "category": "Support",
+    "question": "The website or checkout is not working.",
+    "answer": "Please refresh the page, try another browser and check your internet. If the problem continues, send a screenshot and your phone number to support@shopeasy.example.",
+    "keywords": "website not working app bug error checkout error page not loading site down cannot checkout"
+  },
+  {
+    "id": "91",
+    "category": "Security",
+    "question": "Is my personal information safe?",
+    "answer": "We only use your details to process your orders and we never sell them. You can read the full Privacy Policy at the bottom of our website.",
+    "keywords": "privacy data safe personal information security data protection is my data safe"
+  },
+  {
+    "id": "92",
+    "category": "Security",
+    "question": "I got a call or message asking for my OTP or card details.",
+    "answer": "Do not share anything. We never ask for your OTP, PIN, CVV or password by phone, SMS or WhatsApp. Please report the message to support.",
+    "keywords": "scam fraud fake call otp cheating phishing suspicious someone asked otp"
+  },
+  {
+    "id": "93",
+    "category": "Security",
+    "question": "How can I check that a message is really from your store?",
+    "answer": "Our messages come from our official WhatsApp number and our links only go to shopeasy.example. If you are unsure, send the message to support and ask us.",
+    "keywords": "verify official fake website link real message genuine sms is this from you"
+  },
+  {
+    "id": "94",
+    "category": "Small talk",
+    "question": "Hi",
+    "answer": "Hello! Welcome to ShopEasy. I can help with orders, delivery, payments, returns and more. What would you like to know?",
+    "keywords": "hi hello hey salam assalamualaikum aoa good morning good evening hy hii helo"
+  },
+  {
+    "id": "95",
+    "category": "Small talk",
+    "question": "How are you?",
+    "answer": "I am doing great, thank you for asking! How can I help with your shopping today?",
+    "keywords": "how are you how r u kya haal how are you doing whats up"
+  },
+  {
+    "id": "96",
+    "category": "Small talk",
+    "question": "Thank you",
+    "answer": "You are welcome! Is there anything else I can help you with?",
+    "keywords": "thanks thank you shukriya jazakallah appreciated thx great help thankyou ty"
+  },
+  {
+    "id": "97",
+    "category": "Small talk",
+    "question": "Goodbye",
+    "answer": "Thank you for visiting ShopEasy. Have a great day!",
+    "keywords": "bye goodbye see you allah hafiz khuda hafiz take care later"
+  },
+  {
+    "id": "98",
+    "category": "Small talk",
+    "question": "Who are you? Are you a human?",
+    "answer": "I am ShopEasy's automatic chat assistant, a bot and not a person. I answer from our FAQ, and for anything else I will point you to our support team.",
+    "keywords": "who are you are you human bot robot real name your name are you real"
+  },
+  {
+    "id": "99",
+    "category": "Small talk",
+    "question": "What can you do?",
+    "answer": "I can answer questions about ordering, delivery, payments, returns, exchanges, products, your account and offers. I cannot see your personal order details, so use My Orders or contact support for those.",
+    "keywords": "help what can you do features abilities options menu how can you help"
+  }
+]
